@@ -1,0 +1,21 @@
+EL TRAJE DE PULGENCIO — PRESENTACIÓN DEL HOPPER
+================================================
+
+ABRIRLA
+  - En tu laptop, sin internet: doble clic en "ABRIR PRESENTACION.bat"
+    (no cierres la ventana negra mientras presentas).
+  - En internet (cuando esté en GitHub Pages): https://mwifxe.github.io/pulgencio/
+
+TECLAS
+  -> / <-   avanzar / regresar (cada animación se queda quieta al terminar)
+  F         pantalla completa
+  N         notas con el discurso y el minuto de cada paso (otra ventana)
+  ESPACIO   en "¡Salta!": cuenta regresiva; luego escribe los cm y Enter
+            en el último paso: Pulgencio dice su frase con su voz
+
+ARCHIVOS
+  anim/        animaciones de cada paso
+  fotos/       release en CAD y saltos (del reporte)
+  prototipos/  fotos de la V1, V2 y V3
+  bocetos/     los 15 bocetos
+  audio/pulgencio.wav   la voz del final (se puede reemplazar por otra con el mismo nombre)
